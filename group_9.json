@@ -1,1 +1,241 @@
-[{"group": 9, "word": "boorish", "synonyms": ["coarse", "impolite", "churlish", "barbarous", "philistine"]}, {"group": 9, "word": "brook", "synonyms": ["tolerate", "abide", "countenance"]}, {"group": 9, "word": "circumspect", "synonyms": ["wary", "heedful", "vigilant", "prudent", "canny"]}, {"group": 9, "word": "commensurate", "synonyms": ["corresponding", "correspondent", "commensurable"]}, {"group": 9, "word": "cordial", "synonyms": ["genial", "affable", "amiable", "acute", "fervent", "fervid", "ardent", "profound", "perfervid"]}, {"group": 9, "word": "deleterious", "synonyms": ["inimical", "adverse", "pernicious", "ruinous"]}, {"group": 9, "word": "dichotomy", "synonyms": ["gulf", "chasm", "polarity", "antagonism", "contrariety"]}, {"group": 9, "word": "edify", "synonyms": ["inculcate", "indoctrinate", "elevate"]}, {"group": 9, "word": "elicit", "synonyms": ["induce", "prompt", "engender", "kindle", "extort"]}, {"group": 9, "word": "erudite", "synonyms": ["lettered", "sagacious", "donnish", "cerebral", "pedantic", "esoteric", "recondite", "sapient"]}, {"group": 9, "word": "fecund", "synonyms": ["fertile", "fruitful", "prolific", "fructuous"]}, {"group": 9, "word": "feeble", "synonyms": ["puny", "enfeebled", "enervated", "tottery", "etiolated", "craven", "implausible", "inept", "paltry", "futile"]}, {"group": 9, "word": "felicitous", "synonyms": ["apposite", "pertinent", "germane", "congruous", "lucky"]}, {"group": 9, "word": "forbear", "synonyms": ["abstain", "desist", "eschew"]}, {"group": 9, "word": "haphazard", "synonyms": ["indiscriminate", "chaotic", "arbitrary", "slapdash", "slipshod"]}, {"group": 9, "word": "hodgepodge", "synonyms": ["assortment", "ragbag", "melange"]}, {"group": 9, "word": "impede", "synonyms": ["obstruct", "hamper", "thwart", "balk", "cumber"]}, {"group": 9, "word": "impetuous", "synonyms": ["heedless", "imprudent", "spontaneous", "impromptu", "precipitate"]}, {"group": 9, "word": "irascible", "synonyms": ["waspish", "peevish", "captious", "fractious", "iracund"]}, {"group": 9, "word": "mercenary", "synonyms": ["avaricious", "covetous", "rapacious", "venal", "materialistic"]}, {"group": 9, "word": "meticulous", "synonyms": ["conscientious", "scrupulous", "punctilious", "painstaking", "fastidious", "pedantic", "laborious"]}, {"group": 9, "word": "mordant", "synonyms": ["trenchant", "acerbic", "sardonic", "scathing", "pungent", "incisive", "polemic", "virulent", "vitriolic", "waspish"]}, {"group": 9, "word": "outstrip", "synonyms": ["overshadow", "eclipse"]}, {"group": 9, "word": "precarious", "synonyms": ["perilous", "dubious", "dodgy"]}, {"group": 9, "word": "quirky", "synonyms": ["quirkyeccentric", "idiosyncratic", "peculiar", "zany", "kinky"]}, {"group": 9, "word": "repudiate", "synonyms": ["abjure", "recant", "gainsay", "controvert", "refute", "forsake"]}, {"group": 9, "word": "tact", "synonyms": ["prudence", "decorum", "savvy", "perception", "subtlety"]}, {"group": 9, "word": "trifling", "synonyms": ["trivial", "petty", "incidental", "frivolous", "superficial", "piddling", "exiguous"]}, {"group": 9, "word": "turbulent", "synonyms": ["tempestuous", "stormy", "unstable", "unsettled", "tumultuous", "chaotic", "anarchic", "agitated", "boisterous"]}]
+[
+  {
+    "group": 9,
+    "word": "boorish",
+    "synonyms": ["coarse", "impolite", "churlish", "barbarous", "philistine"]
+  },
+  {
+    "group": 9,
+    "word": "brook",
+    "synonyms": ["tolerate", "abide", "countenance"]
+  },
+  {
+    "group": 9,
+    "word": "circumspect",
+    "synonyms": ["wary", "heedful", "vigilant", "prudent", "canny"]
+  },
+  {
+    "group": 9,
+    "word": "commensurate",
+    "synonyms": ["corresponding", "correspondent", "commensurable"]
+  },
+  {
+    "group": 9,
+    "word": "cordial",
+    "synonyms": [
+      "genial",
+      "affable",
+      "amiable",
+      "acute",
+      "fervent",
+      "fervid",
+      "ardent",
+      "profound",
+      "perfervid"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "deleterious",
+    "synonyms": ["inimical", "adverse", "pernicious", "ruinous"]
+  },
+  {
+    "group": 9,
+    "word": "dichotomy",
+    "synonyms": ["gulf", "chasm", "polarity", "antagonism", "contrariety"]
+  },
+  {
+    "group": 9,
+    "word": "edify",
+    "synonyms": ["inculcate", "indoctrinate", "elevate"]
+  },
+  {
+    "group": 9,
+    "word": "elicit",
+    "synonyms": ["induce", "prompt", "engender", "kindle", "extort"]
+  },
+  {
+    "group": 9,
+    "word": "erudite",
+    "synonyms": [
+      "lettered",
+      "sagacious",
+      "donnish",
+      "cerebral",
+      "pedantic",
+      "esoteric",
+      "recondite",
+      "sapient"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "fecund",
+    "synonyms": ["fertile", "fruitful", "prolific", "fructuous"]
+  },
+  {
+    "group": 9,
+    "word": "feeble",
+    "synonyms": [
+      "puny",
+      "enfeebled",
+      "enervated",
+      "tottery",
+      "etiolated",
+      "craven",
+      "implausible",
+      "inept",
+      "paltry",
+      "futile"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "felicitous",
+    "synonyms": ["apposite", "pertinent", "germane", "congruous", "lucky"]
+  },
+  {
+    "group": 9,
+    "word": "forbear",
+    "synonyms": ["abstain", "desist", "eschew"]
+  },
+  {
+    "group": 9,
+    "word": "haphazard",
+    "synonyms": [
+      "indiscriminate",
+      "chaotic",
+      "arbitrary",
+      "slapdash",
+      "slipshod"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "hodgepodge",
+    "synonyms": ["assortment", "ragbag", "melange"]
+  },
+  {
+    "group": 9,
+    "word": "impede",
+    "synonyms": ["obstruct", "hamper", "thwart", "balk", "cumber"]
+  },
+  {
+    "group": 9,
+    "word": "impetuous",
+    "synonyms": [
+      "heedless",
+      "imprudent",
+      "spontaneous",
+      "impromptu",
+      "precipitate"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "irascible",
+    "synonyms": ["waspish", "peevish", "captious", "fractious", "iracund"]
+  },
+  {
+    "group": 9,
+    "word": "mercenary",
+    "synonyms": [
+      "avaricious",
+      "covetous",
+      "rapacious",
+      "venal",
+      "materialistic"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "meticulous",
+    "synonyms": [
+      "conscientious",
+      "scrupulous",
+      "punctilious",
+      "painstaking",
+      "fastidious",
+      "pedantic",
+      "laborious"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "mordant",
+    "synonyms": [
+      "trenchant",
+      "acerbic",
+      "sardonic",
+      "scathing",
+      "pungent",
+      "incisive",
+      "polemic",
+      "virulent",
+      "vitriolic",
+      "waspish"
+    ]
+  },
+  { "group": 9, "word": "outstrip", "synonyms": ["overshadow", "eclipse"] },
+  {
+    "group": 9,
+    "word": "precarious",
+    "synonyms": ["perilous", "dubious", "dodgy"]
+  },
+  {
+    "group": 9,
+    "word": "quirky",
+    "synonyms": [
+      "quirkyeccentric",
+      "idiosyncratic",
+      "peculiar",
+      "zany",
+      "kinky"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "repudiate",
+    "synonyms": [
+      "abjure",
+      "recant",
+      "gainsay",
+      "controvert",
+      "refute",
+      "forsake"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "tact",
+    "synonyms": ["prudence", "decorum", "savvy", "perception", "subtlety"]
+  },
+  {
+    "group": 9,
+    "word": "trifling",
+    "synonyms": [
+      "trivial",
+      "petty",
+      "incidental",
+      "frivolous",
+      "superficial",
+      "piddling",
+      "exiguous"
+    ]
+  },
+  {
+    "group": 9,
+    "word": "turbulent",
+    "synonyms": [
+      "tempestuous",
+      "stormy",
+      "unstable",
+      "unsettled",
+      "tumultuous",
+      "chaotic",
+      "anarchic",
+      "agitated",
+      "boisterous"
+    ]
+  }
+]
