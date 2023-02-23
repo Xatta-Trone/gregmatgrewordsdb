@@ -1,1 +1,2766 @@
-[]
+[
+  {
+    "word": "abscond",
+    "set": 29,
+    "id": 840,
+    "wordNo": 1,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To flee, often secretly; to steal away, particularly to avoid arrest or prosecution.",
+          "To withdraw from.",
+          "To evade, to hide or flee from.",
+          "To conceal; to take away.",
+          "To hide, to be in hiding or concealment."
+        ]
+      }
+    ],
+    "synonyms": ["conceal", "flee", "run away", "steal away"],
+    "example": [
+      "The thieves absconded with our property.",
+      "The captain absconded his responsibility."
+    ]
+  },
+  {
+    "word": "apogee",
+    "set": 29,
+    "id": 841,
+    "wordNo": 2,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The point, in an orbit about the Earth, that is furthest from the Earth: the apoapsis of an Earth orbiter.",
+          "(more generally) The point, in an orbit about any planet, that is farthest from the planet: the apoapsis of any satellite.",
+          "(possibly obsolete outside astrology) The point, in any trajectory of an object in space, where it is furthest from the Earth.",
+          "The highest point."
+        ]
+      }
+    ],
+    "synonyms": [
+      "acme",
+      "climax",
+      "culmination",
+      "pinnacle",
+      "zenith",
+      "apoapsis",
+      "apocenter",
+      "apsis"
+    ],
+    "example": []
+  },
+  {
+    "word": "aspersion",
+    "set": 29,
+    "id": 842,
+    "wordNo": 3,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An attack on somebody's reputation or good name, often in the phrase to cast aspersions upon….",
+          "A sprinkling, especially of holy water.",
+          "(in plural) slander, calumny"
+        ]
+      }
+    ],
+    "synonyms": ["calumny", "slander"],
+    "example": []
+  },
+  {
+    "word": "bawdy",
+    "set": 29,
+    "id": 843,
+    "wordNo": 4,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Soiled, dirty.",
+          "Obscene; filthy; unchaste.",
+          "(of language) Sexual in nature and usually meant to be humorous but considered rude."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "chagrin",
+    "set": 29,
+    "id": 844,
+    "wordNo": 5,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Distress of mind caused by a failure of aims or plans, want of appreciation, mistakes etc; vexation or mortification.",
+          "A type of leather or skin with a rough surface."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To bother or vex; to mortify.",
+          "To be vexed or annoyed."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Feeling chagrin; annoyed; vexed, fretful."]
+      }
+    ],
+    "synonyms": [
+      "disquiet",
+      "fretfulness",
+      "mortification",
+      "peevishness",
+      "vexation",
+      "shagreen",
+      "chagrined"
+    ],
+    "example": []
+  },
+  {
+    "word": "collude",
+    "set": 29,
+    "id": 845,
+    "wordNo": 6,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To act in concert with; to conspire"]
+      }
+    ],
+    "synonyms": ["cahoots", "conspire", "plot", "scheme"],
+    "example": []
+  },
+  {
+    "word": "commiserate",
+    "set": 29,
+    "id": 846,
+    "wordNo": 7,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Commiserating, pitying, lamentful"]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "conflagration",
+    "set": 29,
+    "id": 847,
+    "wordNo": 8,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A large fire extending to many objects, or over a large space; a general burning.",
+          "A large-scale conflict."
+        ]
+      }
+    ],
+    "synonyms": ["firestorm", "inferno"],
+    "example": ["It took sixty firefighters to put out the conflagration."]
+  },
+  {
+    "word": "contretemps",
+    "set": 29,
+    "id": 848,
+    "wordNo": 9,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An unforeseen, inopportune, or embarrassing event; a hitch",
+          "An ill-timed pass."
+        ]
+      }
+    ],
+    "synonyms": ["hitch", "mishap"],
+    "example": []
+  },
+  {
+    "word": "conviction",
+    "set": 29,
+    "id": 849,
+    "wordNo": 10,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A firmly held belief.",
+          "A judgement of guilt in a court of law.",
+          "The state of being found or proved guilty.",
+          "The state of being wholly convinced."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "croon",
+    "set": 29,
+    "id": 850,
+    "wordNo": 11,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": ["A soft or sentimental hum or song."]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To hum or sing softly or in a sentimental manner.",
+          "To say softly or gently",
+          "To soothe by singing softly.",
+          "To make a continuous hollow moan, as cattle do when in pain."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "depose",
+    "set": 29,
+    "id": 851,
+    "wordNo": 12,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To put down; to lay down; to deposit; to lay aside; to put away.",
+          "To remove (a leader) from (high) office, without killing the incumbent.",
+          "To give evidence or testimony, especially in response to interrogation during a deposition",
+          "To interrogate and elicit testimony from during a deposition; typically done by a lawyer.",
+          "To take or swear an oath.",
+          "To testify; to bear witness; to claim; to assert; to affirm."
+        ]
+      }
+    ],
+    "synonyms": ["declare"],
+    "example": [
+      "A deposed monarch may go into exile as pretender to the lost throne, hoping to be restored in a subsequent revolution.",
+      "After we deposed the claimant we had enough evidence to avoid a trial."
+    ]
+  },
+  {
+    "word": "detente",
+    "set": 29,
+    "id": 852,
+    "wordNo": 13,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": ["A relaxing of tension, especially between countries."]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "dowdy",
+    "set": 29,
+    "id": 853,
+    "wordNo": 14,
+    "definitions": [
+      { "partOfSpeech": "noun", "definitions": ["A plain or shabby person"] },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Plain and unfashionable in style or dress.",
+          "Lacking stylishness or neatness; shabby."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "echelon",
+    "set": 29,
+    "id": 854,
+    "wordNo": 15,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A level or rank in an organization, profession, or society.",
+          "A line of riders seeking maximum drafting in a crosswind, resulting in a diagonal line across the road.",
+          "A formation of troops, ships, etc., in diagonal parallel rows."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To form troops into an echelon."]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of a matrix: having undergone Gaussian elimination with the result that the leading coefficient or pivot (that is, the first nonzero number from the left) of a nonzero row is to the right of the pivot of the row above it, giving rise to a stepped appearance in the matrix."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "ennui",
+    "set": 29,
+    "id": 855,
+    "wordNo": 16,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A gripping listlessness or melancholia caused by boredom; depression."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To make bored or listless; to weary."]
+      }
+    ],
+    "synonyms": ["acedia", "boredom", "weltschmerz"],
+    "example": []
+  },
+  {
+    "word": "expatiate",
+    "set": 29,
+    "id": 856,
+    "wordNo": 17,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To range at large, or without restraint.",
+          "To write or speak at length; to be copious in argument or discussion.",
+          "To expand; to spread; to extend; to diffuse; to broaden."
+        ]
+      }
+    ],
+    "synonyms": ["descant", "dilate", "enlarge", "expound"],
+    "example": []
+  },
+  {
+    "word": "fraught",
+    "set": 29,
+    "id": 857,
+    "wordNo": 18,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The hire of a ship or boat to transport cargo.",
+          "Money paid to hire a ship or boat to transport cargo; freight",
+          "The transportation of goods, especially in a ship or boat.",
+          "A ship's cargo, lading or freight.",
+          "A load; a burden.",
+          "Two bucketfuls (of water)."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["fraught money."]
+  },
+  {
+    "word": "fulcrum",
+    "set": 29,
+    "id": 858,
+    "wordNo": 19,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The support about which a lever pivots.",
+          "A crux or pivot; a central point."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "It is possible to flick food across the table using your fork as a lever and your finger as a fulcrum."
+    ]
+  },
+  {
+    "word": "imbroglio",
+    "set": 29,
+    "id": 859,
+    "wordNo": 20,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": ["A complicated situation; an entanglement."]
+      }
+    ],
+    "synonyms": ["snarl"],
+    "example": []
+  },
+  {
+    "word": "jocund",
+    "set": 29,
+    "id": 860,
+    "wordNo": 21,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Jovial; exuberant; lighthearted; merry and in high spirits; exhibiting happiness."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "languish",
+    "set": 29,
+    "id": 861,
+    "wordNo": 22,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To lose strength and become weak; to be in a state of weakness or sickness.",
+          "To pine away in longing for something; to have low spirits, especially from lovesickness.",
+          "To live in miserable or disheartening conditions.",
+          "To be neglected; to make little progress, be unsuccessful.",
+          "To make weak; to weaken, devastate.",
+          "To affect a languid air, especially disingenuously."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "He languished without his girlfriend",
+      "He languished in prison for years",
+      "The case languished for years before coming to trial."
+    ]
+  },
+  {
+    "word": "nadir",
+    "set": 29,
+    "id": 862,
+    "wordNo": 23,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The point of the celestial sphere, directly opposite the zenith; inferior pole of the horizon; point of the celestial sphere directly under the place of observation.",
+          "The lowest point; time of greatest depression.",
+          "The axis of a projected conical shadow; the direction of the force of gravity at a location; down.",
+          "An empty box added beneath a full one in a beehive to give the colony more room to expand or store honey."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To extend (a beehive) by adding an empty box at the base."
+        ]
+      }
+    ],
+    "synonyms": ["bathos", "lowest ebb", "slough of despond", "trough", "down"],
+    "example": [
+      "The nadir of the sun is the axis of the shadow projected by the Earth."
+    ]
+  },
+  {
+    "word": "nimble",
+    "set": 29,
+    "id": 863,
+    "wordNo": 24,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Adept at taking or grasping",
+          "Quick and light in movement or action.",
+          "Quick-witted and alert."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "nimble fingers",
+      "He was too nimble for the assailant and easily escaped his grasp.",
+      "She has a nimble mind and can improvise in any situation."
+    ]
+  },
+  {
+    "word": "ominous",
+    "set": 29,
+    "id": 864,
+    "wordNo": 25,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or pertaining to an omen or to omens; being or exhibiting an omen; significant.",
+          "Specifically, giving indication of a coming ill; being an evil omen"
+        ]
+      }
+    ],
+    "synonyms": [
+      "inauspicious",
+      "portentous",
+      "threatening",
+      "portentous",
+      "sinister",
+      "threatening"
+    ],
+    "example": [
+      "California poll support for Jerry Brown's tax increases has ominous implications for U.S. taxpayers too Los Angeles Times Headline April 25, 2011"
+    ]
+  },
+  {
+    "word": "outlandish",
+    "set": 29,
+    "id": 865,
+    "wordNo": 26,
+    "definitions": [
+      { "partOfSpeech": "adjective", "definitions": ["Bizarre, strange"] }
+    ],
+    "synonyms": [],
+    "example": [
+      "The rock star wore black with outlandish pink and green spiked hair."
+    ]
+  },
+  {
+    "word": "propitious",
+    "set": 29,
+    "id": 866,
+    "wordNo": 27,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Favorable; benevolent.",
+          "Advantageous.",
+          "Characteristic of a good omen.",
+          "Favorably disposed towards someone."
+        ]
+      }
+    ],
+    "synonyms": [
+      "advantageous",
+      "auspicious",
+      "fortunate",
+      "promising",
+      "favorable"
+    ],
+    "example": ["propitious weather"]
+  },
+  {
+    "word": "prurient",
+    "set": 29,
+    "id": 867,
+    "wordNo": 28,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Uneasy with desire; itching; especially, having a lascivious anxiety or propensity; lustful.",
+          "Arousing or appealing to sexual desire.",
+          "Curious, especially inappropriately so."
+        ]
+      }
+    ],
+    "synonyms": ["titillating", "lustful"],
+    "example": []
+  },
+  {
+    "word": "sadistic",
+    "set": 29,
+    "id": 868,
+    "wordNo": 29,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Delighting in or feeling pleasure from the pain or humiliation of others.",
+          "Of behaviour which gives pleasure in the pain or humiliation of others.",
+          "Causing a high degree of pain or humiliation."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "zenith",
+    "set": 29,
+    "id": 869,
+    "wordNo": 30,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir.",
+          "The highest point in the sky reached by a celestial body.",
+          "(by extension) Highest point or state; peak."
+        ]
+      }
+    ],
+    "synonyms": ["acme", "apogee", "culmination", "pinnacle"],
+    "example": [
+      "Winning the continental championship was the zenith of my career."
+    ]
+  },
+  {
+    "word": "aberrant",
+    "set": 30,
+    "id": 870,
+    "wordNo": 1,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person or object that deviates from the rest of a group.",
+          "A group, individual, or structure that deviates from the usual or natural type, especially with an atypical chromosome number."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Differing from the norm.",
+          "(sometimes figurative) Straying from the right way; deviating from morality or truth.",
+          "Deviating from the ordinary or natural type; exceptional; abnormal."
+        ]
+      }
+    ],
+    "synonyms": [
+      "deviant",
+      "freak",
+      "abnormal",
+      "exceptional",
+      "unusual",
+      "devious",
+      "errant",
+      "immoral"
+    ],
+    "example": []
+  },
+  {
+    "word": "abide",
+    "set": 30,
+    "id": 871,
+    "wordNo": 2,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To endure without yielding; to withstand; await defiantly; to encounter; to persevere.",
+          "To bear patiently; to tolerate; to put up with; stand.",
+          "To pay for; to stand the consequences of; to answer for; to suffer for; to atone for.",
+          "To wait in expectation.",
+          "To pause; to delay.",
+          "To stay; to continue in a place; to remain stable or fixed in some state or condition; to be left.",
+          "To have one's abode; to dwell; to reside; to sojourn.",
+          "To endure; to remain; to last.",
+          "To stand ready for; to await for someone; watch for.",
+          "To endure or undergo a hard trial or a task; to stand up under.",
+          "To await submissively; accept without question; submit to."
+        ]
+      }
+    ],
+    "synonyms": [
+      "brook",
+      "put up with",
+      "hold on",
+      "resist",
+      "dwell",
+      "live",
+      "await",
+      "wait for",
+      "hold on",
+      "stay"
+    ],
+    "example": ["The old oak tree abides the wind endlessly."]
+  },
+  {
+    "word": "bravado",
+    "set": 30,
+    "id": 872,
+    "wordNo": 3,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A swaggering show of defiance or courage.",
+          "A false show of courage.",
+          "A swaggerer; a braggart."
+        ]
+      },
+      { "partOfSpeech": "verb", "definitions": ["To swagger; to brag."] }
+    ],
+    "synonyms": [],
+    "example": [
+      "The angry customer stood in the middle of the showroom and voiced his complaints with loud bravado."
+    ]
+  },
+  {
+    "word": "callow",
+    "set": 30,
+    "id": 873,
+    "wordNo": 4,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A callow young bird.",
+          "A callow or teneral phase of an insect or other arthropod, typically shortly after ecdysis, while the skin still is hardening, the colours have not yet become stable, and as a rule, before the animal is able to move effectively.",
+          "An alluvial flat."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Unfledged (of a young bird).",
+          "(by extension) Immature, lacking in life experience.",
+          "Lacking color or firmness (of some kinds of insects or other arthropods, such as spiders, just after ecdysis); teneral.",
+          "Shallow or weak-willed.",
+          "(of a brick) Unburnt.",
+          "Of land: low-lying and liable to be submerged.",
+          "Bald."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["Those three young men are particularly callow youths."]
+  },
+  {
+    "word": "capitulate",
+    "set": 30,
+    "id": 874,
+    "wordNo": 5,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To surrender; to end all resistance, to give up; to go along with or comply.",
+          "To draw up in chapters; to enumerate.",
+          "To draw up the articles of treaty with; to treat, bargain, parley."
+        ]
+      }
+    ],
+    "synonyms": ["wave the white flag"],
+    "example": [
+      "He argued and hollered for so long that I finally capitulated just to make him stop."
+    ]
+  },
+  {
+    "word": "cogitate",
+    "set": 30,
+    "id": 875,
+    "wordNo": 6,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To meditate, to ponder, to think deeply.",
+          "To consider, to devise."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "deportment",
+    "set": 30,
+    "id": 876,
+    "wordNo": 7,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Bearing; manner of presenting oneself.",
+          "Conduct; public behavior.",
+          "Apparent level of schooling or training.",
+          "Self-discipline."
+        ]
+      }
+    ],
+    "synonyms": ["bearing", "comportment", "posture", "behavior", "conduct"],
+    "example": [
+      "Her deportment impressed her interviewers.",
+      "Their deportment changed visibly as the policeman approached.",
+      "His academic deportment did not match his degree record.",
+      "The nun's deportment reflected her vocation."
+    ]
+  },
+  {
+    "word": "extemporize",
+    "set": 30,
+    "id": 877,
+    "wordNo": 8,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To do something, particularly to perform or speak, without prior planning or thought; to act in an impromptu manner; to improvise.",
+          "To do, create, improvise, adapt, or devise in an impromptu or spontaneous manner."
+        ]
+      }
+    ],
+    "synonyms": ["improvise", "think on one's feet", "devise", "improvise"],
+    "example": []
+  },
+  {
+    "word": "factious",
+    "set": 30,
+    "id": 878,
+    "wordNo": 9,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of, pertaining to, or caused by factions.",
+          "Given to or characterized by discordance or insubordination."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "fallow",
+    "set": 30,
+    "id": 879,
+    "wordNo": 10,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Ground ploughed and harrowed but left unseeded for one year.",
+          "Uncultivated land.",
+          "The ploughing or tilling of land, without sowing it for a season."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of agricultural land) Ploughed but left unseeded for more than one planting season.",
+          "(of agricultural land) Left unworked and uncropped for some amount of time.",
+          "Inactive; undeveloped."
+        ]
+      }
+    ],
+    "synonyms": ["abeyant", "dormant", "latent"],
+    "example": ["a fallow period in one's career"]
+  },
+  {
+    "word": "feint",
+    "set": 30,
+    "id": 880,
+    "wordNo": 11,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A movement made to confuse the opponent; a dummy.",
+          "That which is feigned; an assumed or false appearance; a pretense or stratagem.",
+          "(war) An offensive movement resembling an attack in all but its continuance"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To make a feint, or mock attack."]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Feigned; counterfeit.",
+          "(war) (of an attack) directed toward a different part from the intended strike"
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "flagrant",
+    "set": 30,
+    "id": 881,
+    "wordNo": 12,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Obvious and offensive; blatant; scandalous.",
+          "On fire; flaming."
+        ]
+      }
+    ],
+    "synonyms": ["blatant", "glaring", "burning", "flaming"],
+    "example": []
+  },
+  {
+    "word": "gratuitous",
+    "set": 30,
+    "id": 882,
+    "wordNo": 13,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Given freely; unearned.",
+          "Unjustified or unnecessary; not called for by the circumstances"
+        ]
+      }
+    ],
+    "synonyms": [
+      "baseless",
+      "free",
+      "gratis",
+      "groundless",
+      "uncalled-for",
+      "unfounded",
+      "unjustified",
+      "unnecessary"
+    ],
+    "example": ["gratuitous violence"]
+  },
+  {
+    "word": "grovel",
+    "set": 30,
+    "id": 883,
+    "wordNo": 14,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To be prone on the ground.",
+          "To crawl.",
+          "To abase oneself before another person.",
+          "To be slavishly nice to someone or apologize in the hope of securing something.",
+          "To take pleasure in mundane activities."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "indecorous",
+    "set": 30,
+    "id": 884,
+    "wordNo": 15,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Improper, immodest or indecent"]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "intrigue",
+    "set": 30,
+    "id": 885,
+    "wordNo": 16,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A complicated or clandestine plot or scheme intended to effect some purpose by secret artifice; conspiracy; stratagem.",
+          "The plot of a play, poem or romance; the series of complications in which a writer involves their imaginary characters.",
+          "Clandestine intercourse between persons; illicit intimacy; a liaison or affair."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To conceive or carry out a secret plan intended to harm; to form a plot or scheme.",
+          "To arouse the interest of; to fascinate.",
+          "To have clandestine or illicit intercourse.",
+          "To fill with artifice and duplicity; to complicate."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "nominal",
+    "set": 30,
+    "id": 886,
+    "wordNo": 17,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "(grammar) A noun or word group that functions as part of a noun phrase.",
+          "(grammar) A part of speech that shares features with nouns and adjectives. (Depending on the language, it may comprise nouns, adjectives, possibly numerals, pronouns, and participles.)",
+          "A number (usually natural) used like a name; a numeric code or identifier. (See nominal number on Wikipedia.)",
+          "(police jargon) A person listed in the Police National Computer database as having been convicted, cautioned or recently arrested."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of, resembling, relating to, or consisting of a name or names.",
+          "Assigned to or bearing a person's name.",
+          "Existing in name only.",
+          "Of or relating to nominalism.",
+          "Insignificantly small.",
+          "Of or relating to the presumed or approximate value, rather than the actual value.",
+          "Of, relating to, or being the amount or face value of a sum of money or a stock certificate, for example, and not the purchasing power or market value.",
+          "Of, relating to, or being the rate of interest or return without adjustment for compounding or inflation.",
+          "(grammar) Of or relating to a noun or word group that functions as a noun.",
+          "According to plan or design.",
+          "Without adjustment to remove the effects of inflation.",
+          "(of a variable) Having values whose order is insignificant.",
+          "Of a species, the species name without consideration of whether it is a junior synonym or in reality consists of more than one biological species."
+        ]
+      }
+    ],
+    "synonyms": ["normal", "trifling"],
+    "example": [
+      "This sentence contains two nominals.",
+      "Numeric codes of characters used in programming are nominals.",
+      "a nominal difference",
+      "He gave me only a nominal sum for my services.",
+      "The nominal voltage is 1.5 V, but the actual figure is usually higher.",
+      "This sentence contains a nominal phrase.",
+      "Apart from the slightly high temperature, all the readings from the spacecraft are nominal.",
+      "My employer does not understand how low my nominal wage is."
+    ]
+  },
+  {
+    "word": "obdurate",
+    "set": 30,
+    "id": 887,
+    "wordNo": 18,
+    "definitions": [
+      { "partOfSpeech": "verb", "definitions": ["To harden; to obdure."] },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Stubbornly persistent, generally in wrongdoing; refusing to reform or repent.",
+          "Physically hardened, toughened.",
+          "Hardened against feeling; hard-hearted."
+        ]
+      }
+    ],
+    "synonyms": [
+      "hard-hearted",
+      "hardened",
+      "impertinent",
+      "intractable",
+      "recalcitrant",
+      "unrepentant",
+      "unyielding"
+    ],
+    "example": []
+  },
+  {
+    "word": "obstreperous",
+    "set": 30,
+    "id": 888,
+    "wordNo": 19,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Attended by, or making, a loud and tumultuous noise; boisterous.",
+          "Stubbornly defiant; disobedient; resistant to authority or control, whether in a noisy manner or not."
+        ]
+      }
+    ],
+    "synonyms": [
+      "clamorous",
+      "loud",
+      "noisy",
+      "vociferous",
+      "recalcitrant",
+      "uncooperative",
+      "unruly"
+    ],
+    "example": []
+  },
+  {
+    "word": "odious",
+    "set": 30,
+    "id": 889,
+    "wordNo": 20,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Arousing or meriting strong dislike, aversion, or intense displeasure."
+        ]
+      }
+    ],
+    "synonyms": [
+      "contemptible",
+      "despicable",
+      "detestable",
+      "hated",
+      "reviled",
+      "unsavory"
+    ],
+    "example": ["Scrubbing the toilet is an odious task."]
+  },
+  {
+    "word": "plucky",
+    "set": 30,
+    "id": 890,
+    "wordNo": 21,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having or showing pluck, courage or spirit in trying circumstances."
+        ]
+      }
+    ],
+    "synonyms": ["brave", "feisty", "spunky"],
+    "example": []
+  },
+  {
+    "word": "precocious",
+    "set": 30,
+    "id": 891,
+    "wordNo": 22,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Characterized by exceptionally early development or maturity.",
+          "Exhibiting advanced skills and aptitudes at an abnormally early age."
+        ]
+      }
+    ],
+    "synonyms": ["tranty"],
+    "example": [
+      "The precocious plant was already blooming flowers by day 4.",
+      "The precocious child began reading the newspaper at age four."
+    ]
+  },
+  {
+    "word": "remuneration",
+    "set": 30,
+    "id": 892,
+    "wordNo": 23,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Something given in exchange for goods or services rendered.",
+          "A payment for work done; wages, salary, emolument.",
+          "A recompense for a loss; compensation."
+        ]
+      }
+    ],
+    "synonyms": [
+      "compensation",
+      "pay",
+      "payment",
+      "recompense",
+      "repayment",
+      "requital",
+      "reward",
+      "satisfaction"
+    ],
+    "example": []
+  },
+  {
+    "word": "slovenly",
+    "set": 30,
+    "id": 893,
+    "wordNo": 24,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having an untidy appearance; unkempt.",
+          "Dirty, unwashed; disorderly.",
+          "Careless or negligent; sloppy."
+        ]
+      },
+      { "partOfSpeech": "adverb", "definitions": ["In a slovenly manner."] }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "soliloquy",
+    "set": 30,
+    "id": 894,
+    "wordNo": 25,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The act of a character speaking to themselves so as to reveal their thoughts to the audience.",
+          "(authorship) A speech or written discourse in this form."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["(very rare) To issue a soliloquy."]
+      }
+    ],
+    "synonyms": ["monologue", "soliloquize"],
+    "example": [
+      "At the end of the second act the main villain gave a soliloquy detailing his plans to attack the protagonist."
+    ]
+  },
+  {
+    "word": "spurn",
+    "set": 30,
+    "id": 895,
+    "wordNo": 26,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An act of spurning; a scornful rejection.",
+          "A kick; a blow with the foot.",
+          "Disdainful rejection; contemptuous treatment.",
+          "A body of coal left to sustain an overhanging mass."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To reject disdainfully; contemn; scorn.",
+          "To reject something by pushing it away with the foot.",
+          "To waste; fail to make the most of (an opportunity)",
+          "To kick or toss up the heels."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "stolid",
+    "set": 30,
+    "id": 896,
+    "wordNo": 27,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having or revealing little emotion or sensibility; dully or heavily stupid."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "temerity",
+    "set": 30,
+    "id": 897,
+    "wordNo": 28,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Reckless boldness; foolish bravery.",
+          "An act or case of reckless boldness.",
+          "Effrontery; impudence."
+        ]
+      }
+    ],
+    "synonyms": [
+      "audacity",
+      "foolhardiness",
+      "rashness",
+      "recklessness",
+      "brashness",
+      "cheek",
+      "chutzpah",
+      "gall"
+    ],
+    "example": []
+  },
+  {
+    "word": "tenuous",
+    "set": 30,
+    "id": 898,
+    "wordNo": 29,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Thin in substance or consistency.", "Insubstantial."]
+      }
+    ],
+    "synonyms": ["delicate", "gossamer", "ethereal"],
+    "example": [
+      "Far from being amicable, the numbers seemed to turn their backs on each other, and I couldn't find a pair with even the most tenuous connection.",
+      "His argument was not convincing in the debate, considering how tenuous it was."
+    ]
+  },
+  {
+    "word": "verve",
+    "set": 30,
+    "id": 899,
+    "wordNo": 30,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Excitement of imagination such as that which animates a poet, artist, or musician, in composing or performing",
+          "Artistic energy and enthusiasm",
+          "Vigour, vitality and liveliness",
+          "Rapture, enthusiasm",
+          "Spirit, energy"
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "abrogate",
+    "set": 31,
+    "id": 900,
+    "wordNo": 1,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc.",
+          "To put an end to; to do away with.",
+          "To block a process or function."
+        ]
+      },
+      { "partOfSpeech": "adjective", "definitions": ["Abrogated; abolished."] }
+    ],
+    "synonyms": [
+      "abolish",
+      "annul",
+      "countermand",
+      "invalidate",
+      "nullify",
+      "overrule",
+      "overturn",
+      "quash",
+      "repeal",
+      "rescind",
+      "retract",
+      "reverse",
+      "revoke",
+      "set aside",
+      "supersede",
+      "suspend",
+      "undo",
+      "veto",
+      "void",
+      "waive",
+      "withdraw",
+      "abjure",
+      "annihilate",
+      "cancel",
+      "dissolve",
+      "do away with",
+      "end",
+      "obliterate",
+      "obviate",
+      "recant",
+      "subvert",
+      "terminate",
+      "vitiate",
+      "wipe out"
+    ],
+    "example": []
+  },
+  {
+    "word": "aghast",
+    "set": 31,
+    "id": 901,
+    "wordNo": 2,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Terrified; struck with amazement; showing signs of terror or horror."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["I was aghast when the incident unfolded in front of me."]
+  },
+  {
+    "word": "apprise",
+    "set": 31,
+    "id": 902,
+    "wordNo": 3,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To notify, or to make aware; to inform."]
+      }
+    ],
+    "synonyms": ["abreast", "up to date", "up-to-date"],
+    "example": []
+  },
+  {
+    "word": "beguile",
+    "set": 31,
+    "id": 903,
+    "wordNo": 4,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To deceive or delude (using guile).",
+          "To charm, delight or captivate.",
+          "To cause (time) to seem to pass quickly, by way of pleasant diversion."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "I will never touch The Orb, even though its mysterious glow seduces and beguiles.",
+      "We beguiled the hours away"
+    ]
+  },
+  {
+    "word": "boon",
+    "set": 31,
+    "id": 904,
+    "wordNo": 5,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A prayer; petition.",
+          "That which is asked or granted as a benefit or favor; a gift or benefaction.",
+          "A good thing; a blessing or benefit; a thing to be thankful for.",
+          "An unpaid service due by a tenant to his lord."
+        ]
+      }
+    ],
+    "synonyms": ["benefit", "blessing", "favor", "gift"],
+    "example": ["Anaesthetics are a great boon to modern surgery."]
+  },
+  {
+    "word": "callous",
+    "set": 31,
+    "id": 905,
+    "wordNo": 6,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Emotionally hardened; unfeeling and indifferent to the suffering/feelings of others.",
+          "Having calluses."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A hardened area of the skin (especially on the foot or hand) caused by repeated friction, wear or use.",
+          "The material of repair in fractures of bone; a substance exuded at the site of fracture, which is at first soft or cartilaginous in consistency, but is ultimately converted into true bone and unites the fragments into a single piece.",
+          "The new formation over the end of a cutting, before it puts out rootlets.",
+          "A shining area on the frons of many species of Tabanomorpha (horse flies and relatives)."
+        ]
+      }
+    ],
+    "synonyms": ["heartless", "insensitive"],
+    "example": [
+      "She was so callous that she could criticise a cancer patient for wearing a wig."
+    ]
+  },
+  {
+    "word": "coddle",
+    "set": 31,
+    "id": 906,
+    "wordNo": 7,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An Irish dish comprising layers of roughly sliced pork sausages and bacon rashers with sliced potatoes and onions.",
+          "An effeminate person."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To treat gently or with great care.",
+          "To cook slowly in hot water that is below the boiling point.",
+          "To exercise excessive or damaging authority in an attempt to protect. To overprotect."
+        ]
+      }
+    ],
+    "synonyms": ["simmer", "cosset", "pamper", "posset", "spoil"],
+    "example": []
+  },
+  {
+    "word": "crescendo",
+    "set": 31,
+    "id": 907,
+    "wordNo": 8,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An instruction to play gradually more loudly, denoted by a long, narrow angle with its apex on the left ( < ), by musicians called a hairpin.",
+          "A gradual increase of anything, especially to a dramatic climax.",
+          "The climax of a gradual increase."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To increase in intensity; to reach or head for a crescendo."
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": ["Gradually increasing in force or loudness."]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "Their fighting rose in a fearsome crescendo.",
+      "Their arguing rose to a fearsome crescendo.",
+      "The band crescendoed and then suddenly went silent."
+    ]
+  },
+  {
+    "word": "extenuating",
+    "set": 31,
+    "id": 908,
+    "wordNo": 9,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To lessen; to palliate; to lessen or weaken the force of; to diminish the conception of, as crime, guilt, faults, ills, accusations, etc.",
+          "To make thin or slender; to draw out so as to lessen the thickness.",
+          "To become thinner.",
+          "To lower or degrade; to detract from."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "That lessens the seriousness of something by providing an excuse."
+        ]
+      }
+    ],
+    "synonyms": ["mitigate"],
+    "example": []
+  },
+  {
+    "word": "frenetic",
+    "set": 31,
+    "id": 909,
+    "wordNo": 10,
+    "definitions": [
+      { "partOfSpeech": "noun", "definitions": ["One who is frenetic."] },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Fast, harried; having extreme enthusiasm or energy.",
+          "Mentally deranged, insane.",
+          "Characterised by manifestations of delirium or madness."
+        ]
+      }
+    ],
+    "synonyms": ["frantic", "frenzied"],
+    "example": [
+      "After a week of working at a frenetic pace, she was ready for Saturday."
+    ]
+  },
+  {
+    "word": "fringe",
+    "set": 31,
+    "id": 910,
+    "wordNo": 11,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Hair hanging over the forehead.",
+          "A hairstyle including such hair, especially cut straight across the forehead."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": ["Brucellosis, a bacterial disease."]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A decorative border.",
+          "A marginal or peripheral part.",
+          "Those members of a political party, or any social group, holding unorthodox views.",
+          "The periphery of a town or city.",
+          "A light or dark band formed by the diffraction of light.",
+          "Non-mainstream theatre.",
+          "The peristome or fringe-like appendage of the capsules of most mosses.",
+          "The area around the green",
+          "Used attributively with reference to Aboriginal people living on the edge of towns etc.",
+          "A daypart that precedes or follows prime time."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To decorate with fringe.", "To serve as a fringe."]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Outside the mainstream."]
+      }
+    ],
+    "synonyms": [
+      "bang",
+      "forelocks",
+      "fringe",
+      "bang",
+      "fringe",
+      "fringe group",
+      "outskirts",
+      "alternative",
+      "nonmainstream"
+    ],
+    "example": [
+      "the fringe of a picture",
+      "He lives in the fringe of London.",
+      "interference fringe",
+      "The Fringe; Edinburgh Fringe; Adelaide Fringe"
+    ]
+  },
+  {
+    "word": "hapless",
+    "set": 31,
+    "id": 911,
+    "wordNo": 12,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Very unlucky; ill-fated.",
+          "Devoid of talent or skill."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "immaculate",
+    "set": 31,
+    "id": 912,
+    "wordNo": 13,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having no stain or blemish; spotless, undefiled, clear, clean, pure.",
+          "Lacking spots, blotches, or other markings; spotless; unspotted."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "Thou sheer, immaculate and silver fountain. — Shakespeare, Richard II, V-iii."
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "set": 31,
+    "id": 913,
+    "wordNo": 14,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make dark; overshadow",
+          "To deliberately make more confusing in order to conceal the truth.",
+          "To alter code while preserving its behavior but concealing its structure and intent."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Obfuscated; darkened; obscured."]
+      }
+    ],
+    "synonyms": [
+      "confuse",
+      "muddle",
+      "obscure",
+      "darken",
+      "eclipse",
+      "overshadow"
+    ],
+    "example": [
+      "Before leaving the scene, the murderer set a fire in order to obfuscate any evidence of their identity.",
+      "We need to obfuscate these classes before we ship the final release."
+    ]
+  },
+  {
+    "word": "ossify",
+    "set": 31,
+    "id": 914,
+    "wordNo": 15,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To transform (or cause to transform) from a softer animal substance into bone; particularly the processes of growth in humans and animals.",
+          "(animate) To become (or cause to become) inflexible and rigid in habits or opinions.",
+          "(inanimate) To grow (or cause to grow) formulaic and permanent.",
+          "To calcify."
+        ]
+      }
+    ],
+    "synonyms": ["harden"],
+    "example": []
+  },
+  {
+    "word": "pastiche",
+    "set": 31,
+    "id": 915,
+    "wordNo": 16,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A work of art, drama, literature, music, or architecture that imitates the work of a previous artist.",
+          "A musical medley, typically quoting other works.",
+          "An incongruous mixture; a hodgepodge.",
+          "A postmodern playwriting technique that fuses a variety of styles, genres, and story lines to create a new form."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To create or compose in a mixture of styles."]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "The house failed to attract a buyer because the decor was a pastiche of Bohemian and Scandinavian styles."
+    ]
+  },
+  {
+    "word": "perspicacious",
+    "set": 31,
+    "id": 916,
+    "wordNo": 17,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of acute discernment; having keen insight; mentally perceptive.",
+          "Able to physically see clearly; quick-sighted; sharp-sighted."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "ponderous",
+    "set": 31,
+    "id": 917,
+    "wordNo": 18,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Heavy, massive, weighty.",
+          "(by extension) Serious, onerous, oppressive.",
+          "Clumsy, unwieldy, or slow, especially due to weight.",
+          "Dull, boring, tedious; long-winded in expression.",
+          "Characterized by or associated with pondering.",
+          "Dense."
+        ]
+      }
+    ],
+    "synonyms": ["heavy", "massive", "oppressive", "serious"],
+    "example": []
+  },
+  {
+    "word": "recluse",
+    "set": 31,
+    "id": 918,
+    "wordNo": 19,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who lives in self-imposed isolation or seclusion from the world, especially for religious purposes; a hermit",
+          "The place where a recluse dwells; a place of isolation or seclusion",
+          "A brown recluse spider"
+        ]
+      },
+      { "partOfSpeech": "verb", "definitions": ["To shut; to seclude"] },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Sequestered; secluded, isolated", "Hidden, secret"]
+      }
+    ],
+    "synonyms": ["anchorite", "eremite", "hermit", "reclusive"],
+    "example": ["a recluse monk or hermit"]
+  },
+  {
+    "word": "retaliate",
+    "set": 31,
+    "id": 919,
+    "wordNo": 20,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To do something harmful or negative to get revenge for some harm; to fight back or respond in kind to an injury or affront.",
+          "To repay or requite by an act of the same kind."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "John insulted Peter to retaliate for Peter's acid remark earlier."
+    ]
+  },
+  {
+    "word": "rhapsody",
+    "set": 31,
+    "id": 920,
+    "wordNo": 21,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An ancient Greek epic poem (or part of one) suitable for uninterrupted recitation.",
+          "A random collection or medley; a miscellany or confused string of stories, words etc.",
+          "An exalted or exaggeratedly enthusiastic expression of feeling in speech or writing.",
+          "An instrumental composition of irregular form often incorporating improvisation."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "serendipitous",
+    "set": 31,
+    "id": 921,
+    "wordNo": 22,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "By serendipity; by unexpected good fortune",
+          "Good, beneficial, favorable"
+        ]
+      }
+    ],
+    "synonyms": ["causeless", "unintentional"],
+    "example": ["The weather was serendipitous for our vacation."]
+  },
+  {
+    "word": "shirk",
+    "set": 31,
+    "id": 922,
+    "wordNo": 23,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": ["One who shirks, who avoids a duty or responsibility."]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To avoid, especially a duty, responsibility, etc.; to stay away from.",
+          "To evade an obligation; to avoid the performance of duty, as by running away.",
+          "To procure by petty fraud and trickery; to obtain by mean solicitation."
+        ]
+      }
+    ],
+    "synonyms": ["dodger"],
+    "example": ["If you have a job, don't shirk from it by staying off work."]
+  },
+  {
+    "word": "sinecure",
+    "set": 31,
+    "id": 923,
+    "wordNo": 24,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A position that requires no work but still gives an ample payment; a cushy job.",
+          "An ecclesiastical benefice without the care of souls."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To put or place in a sinecure."]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "sinuous",
+    "set": 31,
+    "id": 924,
+    "wordNo": 25,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having curves in alternate directions; meandering.",
+          "Moving gracefully and in a supple manner.",
+          "Morally crooked; shifty."
+        ]
+      }
+    ],
+    "synonyms": [
+      "anfractuous",
+      "flexuous",
+      "serpentine",
+      "winding",
+      "windy",
+      "fluid"
+    ],
+    "example": [
+      "We followed every bend of the sinuous river.",
+      "We were entranced by her sinuous dance."
+    ]
+  },
+  {
+    "word": "sordid",
+    "set": 31,
+    "id": 925,
+    "wordNo": 26,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Distasteful, ignoble, vile, or contemptible.",
+          "Dirty or squalid.",
+          "Morally degrading.",
+          "Grasping; stingy; avaricious.",
+          "Of a dull colour."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "stanch",
+    "set": 31,
+    "id": 926,
+    "wordNo": 27,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "That which stanches or checks a flow.",
+          "A floodgate by which water is accumulated, for floating a boat over a shallow part of a stream by its release."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To stop the flow of.",
+          "To cease, as the flowing of blood.",
+          "To prop; to make stanch, or strong.",
+          "To extinguish; to quench, as fire or thirst."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Strong and tight; sound; firm.",
+          "Firm in principle; constant and zealous; loyal; hearty; steadfast.",
+          "Close; secret; private."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "A small amount of cotton can be stuffed into the nose to stanch the flow of blood if necessary.",
+      "a stanch ship",
+      "a stanch churchman; a stanch friend or adherent"
+    ]
+  },
+  {
+    "word": "surfeit",
+    "set": 31,
+    "id": 927,
+    "wordNo": 28,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An excessive amount of something.",
+          "Overindulgence in either food or drink; overeating.",
+          "A sickness or condition caused by overindulgence.",
+          "Disgust caused by excess; satiety."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To fill (something) to excess.",
+          "To feed (someone) to excess (on, upon or with something).",
+          "To make (someone) sick as a result of overconsumption.",
+          "To supply (someone) with something to excess; to disgust (someone) through overabundance.",
+          "To satisfy (someone's appetite) to excess (both literally and figuratively).",
+          "To overeat or feed to excess (on or upon something).",
+          "To indulge (in something) to excess.",
+          "To become sick from overindulgence (both literally and figuratively)."
+        ]
+      }
+    ],
+    "synonyms": [
+      "nausea",
+      "excess",
+      "glut",
+      "overabundance",
+      "superfluity",
+      "surplus",
+      "ug",
+      "gluttony",
+      "overeating",
+      "overindulgence",
+      "cloy",
+      "glut",
+      "glut",
+      "glut",
+      "indulge",
+      "overfeed",
+      "overindulge",
+      "glut",
+      "overfeed",
+      "stuff",
+      "stuff"
+    ],
+    "example": [
+      "A surfeit of wheat is driving down the price.",
+      "King Henry I is said to have died of a surfeit of lampreys.",
+      "She surfeited her children on sweets."
+    ]
+  },
+  {
+    "word": "ulterior",
+    "set": 31,
+    "id": 928,
+    "wordNo": 29,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Situated beyond, or on the farther side.",
+          "Beyond what is obvious or evident.",
+          "Being intentionally concealed so as to deceive.",
+          "Happening later; subsequent."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["an ulterior action"]
+  },
+  {
+    "word": "voluble",
+    "set": 31,
+    "id": 929,
+    "wordNo": 30,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a person or a manner of speaking) Fluent or having a ready flow of speech; garrulous or loquacious; tonguey.",
+          "(of thoughts, feelings, or something that is expressed) Expressed readily or at length and in a fluent manner.",
+          "Easily rolling or turning; having a fluid, undulating motion.",
+          "Twisting and turning like a vine."
+        ]
+      }
+    ],
+    "synonyms": ["steady"],
+    "example": []
+  },
+  {
+    "word": "abstruse",
+    "set": 32,
+    "id": 930,
+    "wordNo": 1,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Difficult to comprehend or understand.",
+          "Concealed or hidden out of the way; secret."
+        ]
+      }
+    ],
+    "synonyms": [
+      "clandestine",
+      "secret",
+      "surreptitious",
+      "esoteric",
+      "obscure",
+      "recondite",
+      "esoteric",
+      "obscure",
+      "recondite"
+    ],
+    "example": []
+  },
+  {
+    "word": "auxiliary",
+    "set": 32,
+    "id": 931,
+    "wordNo": 2,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person or group that acts in an auxiliary manner.",
+          "A sailing vessel equipped with an engine.",
+          "(grammar) An auxiliary verb.",
+          "A marching band colorguard."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Helping; giving assistance or support.",
+          "Supplementary or subsidiary.",
+          "Held in reserve for exceptional circumstances.",
+          "Of a ship, having both sails and an engine.",
+          "(grammar) Relating to an auxiliary verb."
+        ]
+      }
+    ],
+    "synonyms": ["motorsailer", "accessory", "accessory", "ancillary"],
+    "example": ["auxiliary troops"]
+  },
+  {
+    "word": "caricature",
+    "set": 32,
+    "id": 932,
+    "wordNo": 3,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+          "A grotesque misrepresentation."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To represent someone in an exaggerated or distorted manner."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "depravity",
+    "set": 32,
+    "id": 933,
+    "wordNo": 4,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The state or condition of being depraved; moral debasement.",
+          "A particular depraved act or trait.",
+          "(Christian theology) Inborn corruption, entailing the belief that every facet of human nature has been polluted, defiled, and contaminated by sin."
+        ]
+      }
+    ],
+    "synonyms": ["wickedness"],
+    "example": []
+  },
+  {
+    "word": "dilettante",
+    "set": 32,
+    "id": 934,
+    "wordNo": 5,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An amateur, someone who dabbles in a field out of casual interest rather than as a profession or serious interest.",
+          "(sometimes offensive) A person with a general but superficial interest in any art or a branch of knowledge."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Pertaining to or like a dilettante."]
+      }
+    ],
+    "synonyms": ["amateur", "dabbler"],
+    "example": []
+  },
+  {
+    "word": "effrontery",
+    "set": 32,
+    "id": 935,
+    "wordNo": 6,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Insolent and shameless audacity.",
+          "An act of insolent and shameless audacity."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "We even had the effrontery to suggest that he should leave the country.",
+      "Any refusal to salute the president shall be counted as an effrontery."
+    ]
+  },
+  {
+    "word": "encroach",
+    "set": 32,
+    "id": 936,
+    "wordNo": 7,
+    "definitions": [
+      { "partOfSpeech": "noun", "definitions": ["Encroachment."] },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To seize, appropriate",
+          "To intrude unrightfully on someone else’s rights or territory",
+          "To advance gradually beyond due limits"
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "endow",
+    "set": 32,
+    "id": 937,
+    "wordNo": 8,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To provide with a dower or a dowry.",
+          "To give property to (someone) as a gift; specifically, to provide (a person or institution) with support in the form of a permanent fund of money or other benefits.",
+          "Followed by with, or rarely by of: to enrich or furnish with some faculty or quality.",
+          "Usually in the passive: to naturally furnish (with something)."
+        ]
+      }
+    ],
+    "synonyms": ["begift", "bless", "gift"],
+    "example": ["She was endowed with a beautiful voice."]
+  },
+  {
+    "word": "entreat",
+    "set": 32,
+    "id": 938,
+    "wordNo": 9,
+    "definitions": [
+      { "partOfSpeech": "noun", "definitions": ["An entreaty."] },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To treat with, or in respect to, a thing desired; hence, to ask for earnestly.",
+          "To beseech or supplicate (a person); to prevail upon by prayer or solicitation; to try to persuade.",
+          "To invite; to entertain.",
+          "To treat or discourse; hence, to enter into negotiations, as for a treaty.",
+          "To make an earnest petition or request.",
+          "To treat, or conduct toward; to deal with; to use."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "gregarious",
+    "set": 32,
+    "id": 939,
+    "wordNo": 10,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a person) Describing one who enjoys being in crowds and socializing.",
+          "Of animals that travel in herds or packs."
+        ]
+      }
+    ],
+    "synonyms": ["outgoing", "sociable", "social"],
+    "example": []
+  },
+  {
+    "word": "indictment",
+    "set": 32,
+    "id": 940,
+    "wordNo": 11,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An official formal accusation for a criminal offence, or the process by which it is brought to a jury.",
+          "The official legal document outlining the charges concerned; bill of indictment.",
+          "An accusation of wrongdoing; a criticism or condemnation."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "indignant",
+    "set": 32,
+    "id": 941,
+    "wordNo": 12,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Showing anger or indignation, especially at something unjust or wrong."
+        ]
+      }
+    ],
+    "synonyms": ["angry", "infuriated", "mad", "resentful"],
+    "example": []
+  },
+  {
+    "word": "ineluctable",
+    "set": 32,
+    "id": 942,
+    "wordNo": 13,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Impossible to avoid or escape; inescapable, irresistible."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "inquisitive",
+    "set": 32,
+    "id": 943,
+    "wordNo": 14,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Eager to acquire knowledge.",
+          "Too curious; overly interested; nosy."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "latitude",
+    "set": 32,
+    "id": 944,
+    "wordNo": 15,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The angular distance north or south from a planet's equator, measured along the meridian of that particular point.",
+          "An imaginary line (in fact a circumference) around a planet running parallel to the planet's equator.",
+          "The relative freedom from restrictions; scope to do something.",
+          "The angular distance of a heavenly body from the ecliptic.",
+          "The extent to which a light-sensitive material can be over- or underexposed and still achieve an acceptable result.",
+          "Extent or scope; e.g. breadth, width or amplitude."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["His parents gave him a great deal of latitude."]
+  },
+  {
+    "word": "levity",
+    "set": 32,
+    "id": 945,
+    "wordNo": 16,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Lightness of manner or speech, frivolity; lack of appropriate seriousness; inclination to make a joke of serious matters.",
+          "Lack of steadiness.",
+          "The state or quality of being light, buoyancy.",
+          "A lighthearted or frivolous act."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "malevolent",
+    "set": 32,
+    "id": 946,
+    "wordNo": 17,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having or displaying ill will; wishing harm on others",
+          "Having an evil or harmful influence"
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "mediate",
+    "set": 32,
+    "id": 947,
+    "wordNo": 18,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To resolve differences, or to bring about a settlement, between conflicting parties.",
+          "To intervene between conflicting parties in order to resolve differences or bring about a settlement.",
+          "To divide into two equal parts.",
+          "To act as an intermediary causal or communicative agent; to convey.",
+          "To act as a spiritualistic medium."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Acting through a mediating agency, indirect.",
+          "Intermediate between extremes.",
+          "Gained or effected by a medium or condition."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "occlude",
+    "set": 32,
+    "id": 948,
+    "wordNo": 19,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To obstruct, cover, or otherwise block (an opening, a portion of an image, etc.).",
+          "To absorb, as a gas by a metal."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "pacify",
+    "set": 32,
+    "id": 949,
+    "wordNo": 20,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To bring peace to (a place or situation), by ending war, fighting, violence, anger or agitation.",
+          "To appease (someone)."
+        ]
+      }
+    ],
+    "synonyms": ["allay", "locarnize"],
+    "example": []
+  },
+  {
+    "word": "paragon",
+    "set": 32,
+    "id": 950,
+    "wordNo": 21,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person of preeminent qualities, who acts as a pattern or model for others.",
+          "A companion; a match; an equal.",
+          "Comparison; competition.",
+          "The size of type between great primer and double pica, standardized as 20-point.",
+          "A flawless diamond of at least 100 carats."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To compare; to parallel; to put in rivalry or emulation with.",
+          "To compare with; to equal; to rival.",
+          "To serve as a model for; to surpass.",
+          "To be equal; to hold comparison."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "In the novel, Constanza is a paragon of virtue who would never compromise her reputation."
+    ]
+  },
+  {
+    "word": "patronize",
+    "set": 32,
+    "id": 951,
+    "wordNo": 22,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To act as a patron of; to defend, protect, or support.",
+          "To make oneself a customer of a business, especially a regular customer.",
+          "To assume a tone of unjustified superiority toward; to talk down to, to treat condescendingly.",
+          "To blame, to reproach."
+        ]
+      }
+    ],
+    "synonyms": ["condescend", "infantilize", "enpatron", "patrocinate"],
+    "example": []
+  },
+  {
+    "word": "penurious",
+    "set": 32,
+    "id": 952,
+    "wordNo": 23,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Miserly; excessively cheap.",
+          "Not bountiful; thin; scant.",
+          "Impoverished; wanting for money."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "The old man died a penurious wretch; eighty-thousand dollars in the mattress and as many holes in the roof.",
+      "The penurious stew would have been more accurately labelled broth.",
+      "The poor penurious horde, naught in the cooking pot and naught in the belly."
+    ]
+  },
+  {
+    "word": "piquant",
+    "set": 32,
+    "id": 953,
+    "wordNo": 24,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Causing hurt feelings; scathing, severe.",
+          "Stimulating to the senses; engaging; charming.",
+          "Favorably stimulating to the palate; pleasantly spicy; tangy."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  },
+  {
+    "word": "rampant",
+    "set": 32,
+    "id": 954,
+    "wordNo": 25,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Rearing on both hind legs with the forelegs extended.",
+          "Rearing up, especially on its hind leg(s), with a foreleg raised and in profile.",
+          "Tilted, said of an arch with one side higher than the other, or a vault whose two abutments are located on an inclined plane.",
+          "Unrestrained or unchecked, usually in a negative manner.",
+          "Rife, or occurring widely, frequently or menacingly."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "The Vienna riding school displays splendid rampant movement.",
+      "Weeds are rampant in any neglected garden.",
+      "There was rampant corruption in the city."
+    ]
+  },
+  {
+    "word": "remote",
+    "set": 32,
+    "id": 955,
+    "wordNo": 26,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An element of broadcast programming originating away from the station's or show's control room."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": ["To connect to a computer from a remote location."]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "At a distance; disconnected.",
+          "Distant or otherwise inaccessible.",
+          "(especially with respect to likelihood) Slight.",
+          "Emotionally detached."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A device used to operate an appliance (such as a television), vehicle or mechanical toy from a short distance away.",
+          "A means of doing something from a distance."
+        ]
+      }
+    ],
+    "synonyms": [
+      "clicker",
+      "disconnected",
+      "hands-free",
+      "wireless",
+      "far",
+      "hidden",
+      "outlying",
+      "aloof",
+      "dispassionate",
+      "distant",
+      "removed",
+      "withdrawn",
+      "faint",
+      "clicker",
+      "remote",
+      "zapper"
+    ],
+    "example": [
+      "A remote operator may control the vehicle with a wireless handset.",
+      "After his fall from the emperor's favor, the general was posted to a remote outpost.",
+      "There was only a remote possibility that we would be rescued as we were far outside of the regular shipping lanes.",
+      "After her mother's death, my friend grew remote for a time while she dealt with her grief.",
+      "The bomb was detonated by remote control."
+    ]
+  },
+  {
+    "word": "reprobate",
+    "set": 32,
+    "id": 956,
+    "wordNo": 27,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One rejected by God; a sinful person.",
+          "An individual with low morals or principles."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Rejected; cast off as worthless.",
+          "Rejected by God; damned, sinful.",
+          "Immoral, having no religious or principled character."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["The reprobate criminal sneered at me."]
+  },
+  {
+    "word": "turbid",
+    "set": 32,
+    "id": 957,
+    "wordNo": 28,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a liquid) Having the lees or sediment disturbed; not clear.",
+          "Smoky or misty.",
+          "Unclear; confused; obscure."
+        ]
+      }
+    ],
+    "synonyms": [
+      "ambiguous",
+      "equivocal",
+      "cloudy",
+      "confused",
+      "disordered",
+      "disturbed",
+      "droff",
+      "roiled",
+      "fumid",
+      "hazy"
+    ],
+    "example": ["turbid water"]
+  },
+  {
+    "word": "turgid",
+    "set": 32,
+    "id": 958,
+    "wordNo": 29,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Distended beyond the natural state by some internal agent, especially fluid, or expansive force.",
+          "(of language or style) Overly complex and difficult to understand; grandiloquent; bombastic."
+        ]
+      }
+    ],
+    "synonyms": [
+      "bloated",
+      "distended",
+      "inflated",
+      "swelled",
+      "swollen",
+      "tumescent",
+      "tumid",
+      "turgescent",
+      "bombastic",
+      "grandiose",
+      "pompous"
+    ],
+    "example": ["I have a turgid limb."]
+  },
+  {
+    "word": "vacuous",
+    "set": 32,
+    "id": 959,
+    "wordNo": 30,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Empty; void; lacking meaningful content.",
+          "Showing a lack of thought or intelligence; vacant"
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": []
+  }
+]
