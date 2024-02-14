@@ -1,1 +1,891 @@
-[]
+[
+  {
+    "word": "attribute",
+    "set": 37,
+    "id": 1080,
+    "wordNo": 1,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A characteristic or quality of a thing.",
+          "(grammar) A word that qualifies a noun, a qualifier.",
+          "That which is predicated or affirmed of a subject; a predicate; an accident.",
+          "An option or setting belonging to some object.",
+          "A semantic item with which a method or other code element may be decorated.",
+          "A numeric value representing the colours of part of the screen display."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To ascribe (something) to a given cause, reason etc.",
+          "To associate ownership or authorship of (something) to someone."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "His finest attribute is his kindness.",
+      "In the clause \"My jacket is more expensive than yours\", \"My\" is the attribute of \"jacket\".",
+      "A file with the read-only attribute set cannot be overwritten.",
+      "Properties can be marked as obsolete with an attribute, which will cause the compiler to generate a warning if they are used.",
+      "This poem is attributed to Browning."
+    ],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/attribute-1.jpg",
+        "alt": "To regard as being caused by or belonging to."
+      }
+    ]
+  },
+  {
+    "word": "calamitous",
+    "set": 37,
+    "id": 1081,
+    "wordNo": 2,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Concerning or involving calamity, disastrous."]
+      }
+    ],
+    "synonyms": ["destructive", "fatal"],
+    "example": ["The city was struck by a calamitous cyclone."],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/calamitous-1.jpg",
+        "alt": "Descriptive of affliction, distress, or disaster."
+      }
+    ]
+  },
+  {
+    "word": "censor",
+    "set": 37,
+    "id": 1082,
+    "wordNo": 3,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One of the two magistrates who originally administered the census of citizens, and by Classical times (between the 8th century B.C.E. and the 6th century C.E.) was a high judge of public behaviour and morality.",
+          "An official responsible for the removal or suppression of objectionable material (for example, if obscene or likely to incite violence) or sensitive content in books, films, correspondence, and other media.",
+          "A college or university official whose duties vary depending on the institution.",
+          "One who censures or condemns."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To review for, and if necessary to remove or suppress, content from books, films, correspondence, and other media which is regarded as objectionable (for example, obscene, likely to incite violence, or sensitive)."
+        ]
+      }
+    ],
+    "synonyms": [
+      "censorian",
+      "censurer",
+      "censurer",
+      "censurer",
+      "bowdlerize",
+      "expunge",
+      "expurgate",
+      "redact"
+    ],
+    "example": [
+      "The Ancient Roman censors were part of the cursus honorum, a series of public offices held during a political career, like consuls and praetors.",
+      "The headmaster was an even stricter censor of his boarding pupils’ correspondence than the enemy censors had been of his own when the country was occupied.",
+      "Occupying powers typically censor anything reeking of resistance"
+    ],
+    "images": []
+  },
+  {
+    "word": "champion",
+    "set": 37,
+    "id": 1083,
+    "wordNo": 4,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An ongoing winner in a game or contest.",
+          "Someone who is chosen to represent a group of people in a contest.",
+          "Someone who fights for a cause or status.",
+          "Someone who fights on another's behalf."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To promote, advocate, or act as a champion for (a cause, etc.).",
+          "To challenge."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Acting as a champion; that has defeated all one's competitors.",
+          "Excellent; beyond compare.",
+          "(predicative) Excellent; brilliant; superb; deserving of high praise."
+        ]
+      }
+    ],
+    "synonyms": ["paladin"],
+    "example": [
+      "The defending champion is expected to defeat his challenger.",
+      "Barcelona is eligible to play in FIFA Club World Cup as the champion of Europe.",
+      "champion of women's suffrage",
+      "champion of the poor",
+      "\"That rollercoaster was champion,\" laughed Vinny."
+    ],
+    "images": []
+  },
+  {
+    "word": "compound",
+    "set": 37,
+    "id": 1084,
+    "wordNo": 5,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An enclosure within which workers, prisoners, or soldiers are confined",
+          "A group of buildings situated close together, e.g. for a school or block of offices"
+        ]
+      }
+    ],
+    "synonyms": ["gaol", "jail", "pen", "pound", "prison"],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "deter",
+    "set": 37,
+    "id": 1085,
+    "wordNo": 6,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To prevent something from happening.",
+          "To persuade someone not to do something; to discourage.",
+          "To distract someone from something."
+        ]
+      }
+    ],
+    "synonyms": ["dissuade"],
+    "example": [],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/deter-1.jpg",
+        "alt": "To discourage or to prevent by fear."
+      }
+    ]
+  },
+  {
+    "word": "dexterous",
+    "set": 37,
+    "id": 1086,
+    "wordNo": 7,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Skillful with one's hands.",
+          "Skillful in some specific thing.",
+          "Agile; flexible; able to move fluidly and gracefully.",
+          "Skilled at argumentation; mentally skillful."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/dexterous-1.jpg",
+        "alt": "Relating to being skillfull with the hands.."
+      }
+    ]
+  },
+  {
+    "word": "dictum",
+    "set": 37,
+    "id": 1087,
+    "wordNo": 8,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An authoritative statement; a dogmatic saying; a maxim, an apothegm.",
+          "A judicial opinion expressed by judges on points that do not necessarily arise in the case, and are not involved in it.",
+          "The report of a judgment made by one of the judges who has given it.",
+          "An arbitrament or award."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/dictum-1.jpg",
+        "alt": "A formal pronouncement from an authoritative source."
+      }
+    ]
+  },
+  {
+    "word": "dutiful",
+    "set": 37,
+    "id": 1088,
+    "wordNo": 9,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Accepting of one's legal or moral obligations and willing to do them well, and without complaint.",
+          "Pertaining to one's duty; demonstrative of one's sense of duty."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "Ralph was a dutiful child, and took the trash out without being told."
+    ],
+    "images": []
+  },
+  {
+    "word": "empathetic",
+    "set": 37,
+    "id": 1089,
+    "wordNo": 10,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Showing empathy for others, and recognizing their feelings; empathic"
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "ensue",
+    "set": 37,
+    "id": 1090,
+    "wordNo": 11,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To follow (a leader, inclination etc.).",
+          "To follow (in time), to be subsequent to.",
+          "To occur afterwards, as a result or effect."
+        ]
+      }
+    ],
+    "synonyms": [
+      "come after",
+      "follow",
+      "carry out",
+      "follow",
+      "pursue",
+      "arise",
+      "follow"
+    ],
+    "example": [
+      "Give three freshmen six bottles of wine, and hilarity will ensue."
+    ],
+    "images": []
+  },
+  {
+    "word": "fathom",
+    "set": 37,
+    "id": 1091,
+    "wordNo": 12,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Grasp, envelopment, control.",
+          "(now usually nautical) An English unit of length for water depth notionally based upon the width of grown man's outstretched arms but standardized as 6 feet (about 1.8 m).",
+          "Various similar units in other systems.",
+          "Depth of insight, mental reach or scope."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To encircle with outstretched arms, especially to take a measurement; to embrace.",
+          "To measure the depth of, take a sounding of.",
+          "To get to the bottom of; to manage to comprehend; understand (a problem etc.)."
+        ]
+      }
+    ],
+    "synonyms": [
+      "brace",
+      "orguia",
+      "stade",
+      "fathom out",
+      "figure out",
+      "puzzle out",
+      "work out"
+    ],
+    "example": ["I can't for the life of me fathom what this means."],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/fathom-1.jpg",
+        "alt": "To understand why a person is doing such strange things."
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "set": 37,
+    "id": 1092,
+    "wordNo": 13,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Free postage, a right exercised by governments (usually with definite article).",
+          "The notice on an envelope where a stamp would normally be found."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To place a frank on an envelope.",
+          "To exempt from charge for postage, as a letter, package, or packet, etc.",
+          "To send by public conveyance free of expense."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Honest, especially in a manner that seems slightly blunt; candid; not reserved or disguised.",
+          "Unmistakable, clinically obvious, self-evident",
+          "Unbounded by restrictions, limitations, etc.; free.",
+          "Liberal; generous; profuse.",
+          "Unrestrained; loose; licentious."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "May I be frank with you?",
+      "The research probes whether treating pre-diabetes with metformin can prevent progression to frank diabetes."
+    ],
+    "images": []
+  },
+  {
+    "word": "germane",
+    "set": 37,
+    "id": 1093,
+    "wordNo": 14,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Related to the topic being discussed or considered."]
+      }
+    ],
+    "synonyms": ["apt", "on-topic", "pertinent", "relevant"],
+    "example": [],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/germane-1.jpg",
+        "alt": "Relating to being appropriate to what is being discussed."
+      }
+    ]
+  },
+  {
+    "word": "grumble",
+    "set": 37,
+    "id": 1094,
+    "wordNo": 15,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A low thundering, rumbling or growling sound.",
+          "The sound made by a hungry stomach.",
+          "A surly complaint."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make a low, growling or rumbling noise, like a hungry stomach or certain animals.",
+          "To complain; to murmur or mutter with discontent; to make ill-natured complaints in a low voice and a surly manner.",
+          "To utter in a grumbling fashion."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "That whiner is never without a grumble to share.",
+      "The distant thunder grumbles.",
+      "He grumbles about the food constantly, but has yet to learn to cook."
+    ],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/grumble-1.jpg",
+        "alt": "To mumble in discontent."
+      }
+    ]
+  },
+  {
+    "word": "hidebound",
+    "set": 37,
+    "id": 1095,
+    "wordNo": 16,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Bound with the hide of an animal.",
+          "(of a domestic animal) Having the skin adhering so closely to the ribs and back as not to be easily loosened or raised; emaciated.",
+          "(of trees) Having the bark so close and constricting that it impedes the growth.",
+          "(of a person) Stubborn; narrow-minded; inflexible.",
+          "Niggardly; penurious; stingy."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "hypocrite",
+    "set": 37,
+    "id": 1096,
+    "wordNo": 17,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Someone who practices hypocrisy, who pretends to hold beliefs, or whose actions are not consistent with their claimed beliefs."
+        ]
+      }
+    ],
+    "synonyms": ["flip-flopper"],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "impolitic",
+    "set": 37,
+    "id": 1097,
+    "wordNo": 18,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Not in accordance with good policy."]
+      }
+    ],
+    "synonyms": ["inexpedient", "unadvisable", "unwise"],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "insidious",
+    "set": 37,
+    "id": 1098,
+    "wordNo": 19,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Producing harm in a stealthy, often gradual, manner.",
+          "Intending to entrap; alluring but harmful.",
+          "Treacherous."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "Hansel and Gretel were lured by the witch’s insidious gingerbread house.",
+      "The battle was lost due to the actions of insidious defectors."
+    ],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/insidious-1.jpg",
+        "alt": "Crafty while operating secretly to deceive someone."
+      },
+      {
+        "src": "http://www.wordinfo.info/words/images/insidious-2.jpg",
+        "alt": "Treachery performed in a sly way."
+      }
+    ]
+  },
+  {
+    "word": "intermediary",
+    "set": 37,
+    "id": 1099,
+    "wordNo": 20,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An agent acting as a mediator between sides that may disagree.",
+          "An arranger of a contract or other agreement who is separate from the parties to the agreement",
+          "One or several stages of an event which occurs after the start and before the end.",
+          "A person or organisation in an intermediate position in a supply chain of goods or services"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Intermediate."]
+      }
+    ],
+    "synonyms": [],
+    "example": [
+      "The intermediary between the manufacturer and retailer is the wholesaler"
+    ],
+    "images": []
+  },
+  {
+    "word": "passive",
+    "set": 37,
+    "id": 1100,
+    "wordNo": 21,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "(grammar) The passive voice of verbs.",
+          "(grammar) A form of a verb that is in the passive voice.",
+          "A customer who is satisfied with a product or service, but not keen enough to promote it by word of mouth.",
+          "Any component that consumes but does not produce energy, or is incapable of power gain."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Being subjected to an action without producing a reaction.",
+          "Taking no action.",
+          "(grammar) Being in the passive voice.",
+          "Being inactive and submissive in a relationship, especially in a sexual one.",
+          "Not participating in management.",
+          "Without motive power.",
+          "Of a component: that consumes but does not produce energy, or is incapable of power gain."
+        ]
+      }
+    ],
+    "synonyms": ["disinterested", "idle", "inactive", "uninvolved"],
+    "example": [
+      "He remained passive during the protest.",
+      "a passive balloon; a passive aeroplane; passive flight, such as gliding and soaring"
+    ],
+    "images": []
+  },
+  {
+    "word": "raillery",
+    "set": 37,
+    "id": 1101,
+    "wordNo": 22,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": ["Good-natured ridicule, jest or banter."]
+      }
+    ],
+    "synonyms": [],
+    "example": [],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/raillery-1.jpg",
+        "alt": "Ridicule which is done in a good-humored way."
+      },
+      {
+        "src": "http://www.wordinfo.info/words/images/raillery-2.jpg",
+        "alt": "Jesting or joking which is sometimes not appreciated by the one who is being ridiculed."
+      }
+    ]
+  },
+  {
+    "word": "ramble",
+    "set": 37,
+    "id": 1102,
+    "wordNo": 23,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A leisurely stroll; a recreational walk in the countryside.",
+          "A rambling; an instance of someone talking at length without direction.",
+          "A bed of shale over the seam of coal.",
+          "A section of woodland suitable for leisurely walking."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To move about aimlessly, or on a winding course",
+          "To walk for pleasure; to amble or saunter.",
+          "To talk or write incessantly, unclearly, or incoherently, with many digressions."
+        ]
+      }
+    ],
+    "synonyms": ["drivel", "sperg"],
+    "example": [
+      "Francine has a tendency to ramble when it gets to be late in the evening."
+    ],
+    "images": []
+  },
+  {
+    "word": "resent",
+    "set": 37,
+    "id": 1103,
+    "wordNo": 24,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To feel resentment over; to consider as an affront.",
+          "To express displeasure or indignation at.",
+          "To be sensible of; to feel.",
+          "In a positive sense, to take well; to receive with satisfaction.",
+          "To recognize; to perceive, especially as if by smelling; -- associated in meaning with sent, the older spelling of scent, to smell. See resent (intransitive verb).",
+          "To give forth an odor; to smell; to savor."
+        ]
+      }
+    ],
+    "synonyms": [],
+    "example": ["The bride greatly resented being left at the church."],
+    "images": []
+  },
+  {
+    "word": "residual",
+    "set": 37,
+    "id": 1104,
+    "wordNo": 25,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A remainder left over at the end of some process.",
+          "(in the plural) Payments made to performers, writers and directors when a recorded broadcast is repeated.",
+          "The difference between the observed value and the estimated value of the quantity of interest",
+          "(paranormal) A spiritual presence left behind in a place as a result of a person's death or some other significant event."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of, relating to, or remaining as a residue; left over."
+        ]
+      }
+    ],
+    "synonyms": ["residuary"],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "resolve",
+    "set": 37,
+    "id": 1105,
+    "wordNo": 26,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Determination; will power.",
+          "A determination to do something; a fixed decision.",
+          "An act of resolving something; resolution."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To find a solution to (a problem).",
+          "To reduce to simple or intelligible notions; to make clear or certain; to unravel; to explain.",
+          "To make a firm decision to do something.",
+          "To determine or decide in purpose; to make ready in mind; to fix; to settle.",
+          "To come to an agreement or make peace; patch up relationship, settle differences, bury the hatchet.",
+          "To break down into constituent parts; to decompose; to disintegrate; to return to a simpler constitution or a primeval state.",
+          "To cause to perceive or understand; to acquaint; to inform; to convince; to assure; to make certain.",
+          "To cause a chord to go from dissonance to consonance.",
+          "To render visible or distinguishable the parts of something.",
+          "To find the IP address of a hostname, or the entity referred to by a symbol in source code; to look up.",
+          "To melt; to dissolve; to liquefy or soften (a solid).",
+          "To melt; to dissolve; to become liquid.",
+          "To liquefy (a gas or vapour).",
+          "To disperse or scatter; to discuss, as an inflammation or a tumour.",
+          "To relax; to lay at ease.",
+          "To separate racemic compounds into their enantiomers.",
+          "To solve (an equation, etc.)."
+        ]
+      }
+    ],
+    "synonyms": [
+      "fortitude",
+      "inner strength",
+      "resoluteness",
+      "sticktoitiveness",
+      "tenacity"
+    ],
+    "example": [
+      "It took all my resolve to go through with the surgery.",
+      "to resolve a riddle",
+      "I resolve to finish this work before I go home.",
+      "He was resolved by an unexpected event.",
+      "After two weeks of bickering, they finally resolved their differences."
+    ],
+    "images": [
+      {
+        "src": "http://www.wordinfo.info/words/images/resolve-1.jpg",
+        "alt": "A firm purpose or reaction."
+      }
+    ]
+  },
+  {
+    "word": "surrogate",
+    "set": 37,
+    "id": 1106,
+    "wordNo": 27,
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A substitute (usually of a person, position or role).",
+          "A person or animal that acts as a substitute for the social or pastoral role of another, such as a surrogate parent.",
+          "A deputy for a bishop in granting licences for marriage.",
+          "A politician or person of influence campaigning for a presidential candidate.",
+          "A judicial officer of limited jurisdiction, who administers matters of probate and interstate succession and, in some cases, adoptions.",
+          "Any of a range of Unicode codepoints which are used in pairs in UTF-16 to represent characters beyond the Basic Multilingual Plane.",
+          "An ersatz good."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To replace or substitute something with something else; to appoint a successor."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of, concerning, relating to or acting as a substitute."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A unique identifier for an entity or object, not derived from application data."
+        ]
+      }
+    ],
+    "synonyms": ["deputize", "foster", "replace", "subrogate", "substitute"],
+    "example": [
+      "A mixture of horseradish and mustard often serves as a surrogate for wasabi."
+    ],
+    "images": []
+  },
+  {
+    "word": "vilify",
+    "set": 37,
+    "id": 1107,
+    "wordNo": 28,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To say defamatory things about someone or something; to speak ill of.",
+          "To belittle through speech; to put down."
+        ]
+      }
+    ],
+    "synonyms": [
+      "abuse",
+      "assail",
+      "criticize",
+      "decry",
+      "demonize",
+      "denigrate",
+      "denounce",
+      "libel",
+      "revile",
+      "run down",
+      "slander",
+      "berate"
+    ],
+    "example": [],
+    "images": []
+  },
+  {
+    "word": "wanting",
+    "set": 37,
+    "id": 1108,
+    "wordNo": 29,
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+          "(in particular) To wish, desire or demand to see, have the presence of or do business with.",
+          "To desire (to experience desire); to wish.",
+          "(usually second person, often future tense) To be advised to do something (compare should, ought).",
+          "(now colloquial) To lack and be in need of or require (something, such as a noun or verbal noun).",
+          "(now rare) To have occasion for (something requisite or useful); to require or need.",
+          "To be lacking or deficient or absent.",
+          "To be in a state of destitution; to be needy; to lack.",
+          "To lack and be without, to not have (something).",
+          "(by extension) To lack and (be able to) do without."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "That wants or desires.",
+          "Absent or lacking.",
+          "Deficient."
+        ]
+      },
+      {
+        "partOfSpeech": "preposition",
+        "definitions": ["Without, except, but.", "Less, short of, minus."]
+      }
+    ],
+    "synonyms": [
+      "set one's heart on",
+      "wish",
+      "would like",
+      "without",
+      "in need",
+      "need"
+    ],
+    "example": [
+      "What do you want to eat?  I want you to leave.  I never wanted to go back to live with my mother.",
+      "Danish police want him for embezzlement.",
+      "You can leave if you want.",
+      "You’ll want to repeat this three or four times to get the best result.",
+      "That chair wants fixing.",
+      "There was something wanting in the play.",
+      "The paupers desperately want.",
+      "She wanted anything she needed."
+    ],
+    "images": []
+  },
+  {
+    "word": "willful",
+    "set": 37,
+    "id": 1109,
+    "wordNo": 30,
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": ["Intentional; deliberate.", "Stubborn and determined."]
+      }
+    ],
+    "synonyms": [
+      "headstrong",
+      "obstinate",
+      "self-willed",
+      "spiteful",
+      "volitional",
+      "voluntary"
+    ],
+    "example": [],
+    "images": []
+  }
+]
